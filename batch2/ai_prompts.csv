@@ -1,0 +1,11 @@
+Prompt,Use Case,Category
+"Act as a copywriter. Write 5 headlines for [product]",Marketing,Content
+"Summarize this article in 3 bullet points",Productivity,Research
+"Write a Python function that [task]",Coding,Development
+"Create a 7-day meal plan for [goal]",Health,Lifestyle
+"Write a LinkedIn post about [topic]",Career,Social
+"Explain [concept] like I'm 5 years old",Learning,Education
+"Write a cold email to [target] about [offer]",Sales,Business
+"Generate 10 blog post ideas about [topic]",Marketing,Content
+"Create a workout plan for [goal]",Health,Fitness
+"Write a Twitter thread about [topic]",Marketing,Social
